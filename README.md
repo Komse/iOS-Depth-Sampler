@@ -41,7 +41,7 @@ Depth visualization from pictures in the camera roll.
 
 <img src="README_resources/depth_baby_histoeq.jpg" width="600">
 
-Plaease try this after taking **a picture with the Camera app using the PORTRAIT mode**.
+Please try this after taking **a picture with the Camera app using the PORTRAIT mode**.
 
 ### Portrait Matte
 
@@ -49,7 +49,7 @@ Background removal demo using Portrait Effect Matte (or Portrait Effect Matte).
 
 ![](README_resources/portraitmatte.gif)
 
-Plaease try this after taking **a picture of a HUMAN with PORTRAIT mode**.
+Please try this after taking **a picture of a HUMAN with PORTRAIT mode**.
 
 Available in iOS 12 or later.
 
